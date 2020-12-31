@@ -1,9 +1,9 @@
 # tip_prework1.01
 # Pre-work - *Tip Calculator*
 
-**Name of your app** is a tip calculator application for iOS.
+**Tip Calculator** is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: **Yushwng**
 
 Time spent: **X** hours spent in total
 
